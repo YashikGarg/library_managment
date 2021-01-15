@@ -1,6 +1,6 @@
 # 📖 Library Managment
 
-<b> Hii There 👋</b> I made this library mangment using Java Swing And JDBC
+<b> Hii There 👋</b> I made this library mangment using Java Swing And JDBC (uses Oracale Database)
 
 It has two section -<br>
 ➡ <b>Admin Section</b><br>
